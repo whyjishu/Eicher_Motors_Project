@@ -1,4 +1,5 @@
 Eicher Motors — Financial Performance Analysis & Dashboard
+
 A comprehensive data analysis and machine learning project tracking Eicher Motors' quarterly financial performance from March 2023 to December 2025. This repository includes a complete workflow, from data cleaning and statistical exploration to predictive modeling and an interactive web dashboard.
 
 📋 Project Overview
